@@ -3,4 +3,6 @@ At this point you don't even bother checking the time since you probably are goi
 THE TIME MACHINE WORKED!!  
 but wait... what now?? Isn't this EXACTLY what every time-travelling movie tells you not to do??
 
-[OMG YOU'RE RIGHT!!! I GOTTA GET  OUT OF HERE](../../../before-tm/school.md)
+[OMG YOU'RE RIGHT!!! I GOTTA GET  OUT OF HERE](../../before-tm/school.md) 
+
+[THIS IS TOO AWESOME TO PASS UP!](have-convo.md)
