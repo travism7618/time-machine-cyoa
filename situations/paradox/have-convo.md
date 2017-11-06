@@ -1,1 +1,0 @@
-Guess that time machine was just a waste-of-time... machine.  You step out of the time machine and look back at the glowing tower one more time as you think about how you just wasted two minutes of your life. Looking at the time you You just start to walk out the alley as you bump into someone knocking over their glasses
