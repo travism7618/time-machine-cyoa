@@ -4,4 +4,4 @@ As you-from-5-minutes-ago puts on his glasses, his eyes widen as he begins to st
 "ARE YOU INSANE?! WHY WOULD YOU MESS WITH SOMETHING LIKE THAT?! AND THEN DRAG ME INTO IT?? DO YOU WANT THE UNIVERSE TO EXPLODE?!" You start to reasure him that it's fine, that its been professionally tested by you and theres nothing to worry about until... you feel a slight quake under your feet.. quickly silencing your words of reasurrance.
 Instantly, another quake comes, shaking the very foundations of the buildings around you. You look in horror as the sidewalk under you cracks open and the universe explodes...   
   
-  Looks like you messed up here! [Try again](../../before-tm/discover.md)?
+  Looks like you messed up here! [Try again](../../before-tm/alley.md)?
