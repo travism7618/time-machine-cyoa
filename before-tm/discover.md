@@ -5,4 +5,4 @@ A huge, alien-looking, glowing tower standing in the middle of this alley. It lo
 Should you go inside?
 
 [NOPE!  Definitely time to keep heading to school..](school.md)  
-[Duh! Of course I should head in!](../time-machine.md)
+[Duh! Of course I should head in!](sitations/time-machine.md)
